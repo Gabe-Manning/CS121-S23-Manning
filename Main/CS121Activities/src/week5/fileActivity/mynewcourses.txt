@@ -1,0 +1,5 @@
+course credits score 
+HONR201 3 100
+CS120 4 100
+MUSC100 1 100
+DANA100 3 100

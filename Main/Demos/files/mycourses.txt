@@ -1,0 +1,5 @@
+course credits score 
+1 1 1
+1 1 1
+1 1 1
+HONR202 3 100
