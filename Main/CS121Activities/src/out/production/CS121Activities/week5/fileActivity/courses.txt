@@ -1,0 +1,4 @@
+course credits score
+CS121 4 100
+ENG231 3 95
+MATH166 4 98

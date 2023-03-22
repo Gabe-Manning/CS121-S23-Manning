@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="inheritanceAct">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/inheritanceAct.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
